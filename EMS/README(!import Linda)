@@ -1,0 +1,26 @@
+Languages used
+   - Html
+   - Css
+   - Js
+   - php
+   - mysqli
+   - Ajax
+
+  Frameworks
+    - Jquery 
+    - TweenMax
+
+
+How to test program ?
+
+1) Open Localhost Mysqli and create a database named ems
+  - import the employee_info.sql in the phpAdmin.
+
+2) run the index.php inside the localhost 
+   - Login details
+     - username : kk
+     - password : 000
+   ? You can put wrong details to test outcome
+
+
+ echo "Thanks from Linda Mangena";
